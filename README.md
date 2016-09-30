@@ -1,6 +1,6 @@
 # StarBarExample
 	在开发电商项目中经常都会遇到一些星级评分控件的需求，有需求就必然有开发。废话不多说，没图没真相，上图：
-![ ](http://img.blog.csdn.net/20160830151605083)
+![image](https://raw.githubusercontent.com/GHdeng/StarBarExample/master/resources/StarBarExample.gif)
 
 	先吐槽几句，使用官方提供SatingBar各种蛋疼，图片无法自定义，适配也是麻烦的事情。
 
